@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseStorage</string>
+    <string name="button_download">Descargara</string>
+    <string name="button_upload">Cargar</string>
+</resources>
